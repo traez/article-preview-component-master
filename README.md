@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/traez/article-preview-component-master](https://github.com/traez/article-preview-component-master)
+- Live Site URL: [https://traez.github.io/article-preview-component-master/](https://traez.github.io/article-preview-component-master/)
 
 ## My process
 
@@ -50,7 +50,8 @@ Gained further innumerable experience on DOM manipulation
 
 ### Continued development
 
-Keep bumping out funky ass DOM manipulation projects like every single day.
+Keep bumping out funky ass DOM manipulation projects like every single day.  
+Need to complete all Javascript projects on frontendmentor, all levels then move on to React, APIs etc
 
 ### Useful resources
 
