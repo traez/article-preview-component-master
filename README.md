@@ -46,13 +46,13 @@ Users should be able to:
 
 ### What I learned
 
-Gained further innumerable experience on DOM manipulation.  
-Admittedly there's is one effect i didn't code for the desktop view ...for lack of time. But I trust will grab the required knowledge going forward soon.
+1) Gained further innumerable experience on DOM manipulation.  
+2) Admittedly there's is one effect i didn't code for the desktop view ...for lack of time. But I trust will grab the required knowledge going forward soon.
 
 ### Continued development
 
-Keep bumping out funky ass DOM manipulation projects like every single day.  
-Need to complete all Javascript projects on frontendmentor, all levels then move on to React, APIs etc  
+1) Keep bumping out funky ass DOM manipulation projects like every single day.  
+2) Need to complete all Javascript projects on frontendmentor, all levels then move on to React, APIs etc  
 
 ### Useful resources
 
